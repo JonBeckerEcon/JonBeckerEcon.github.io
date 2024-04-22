@@ -13,11 +13,13 @@ redirect_from:
 
 Welcome! I am a PhD candidate in Economics at New York University.  
 
-My research interests are primarily in macroeconomics, with a focus on consumption and inequality. I have also worked on topics in information theory and spatial economics. Here is my [CV](files/).
-
 **I am going to be on the 2024-2025 job market.**
 
-Contact: jb7026@nyu.edu <br><br/>
+My research interests are primarily in macroeconomics, with a focus on consumption and inequality. I have also worked on topics in information theory and spatial economics. 
+
+Here is my [CV](files/).
+
+Contact me via <a href="mailto:jb7026@nyu.edu">jb7026@nyu.edu</a> <br><br/>
 
 
 # <center> Job Market Paper  </center>
