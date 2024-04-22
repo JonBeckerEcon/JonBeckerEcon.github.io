@@ -24,7 +24,7 @@ Contact: jb7026@nyu.edu <br><br/>
 - - -
 
 **Placeholder 1** <br />
-<small>[ <a href="#/" onclick="visib('Placeholder1')">Abstract</a> | [Slides][Slides1]] 
+<small>[ <a href="#/" onclick="visib('Placeholder1')">Abstract</a> | [Slides][Slides1] ] 
 
 <div id="Placeholder1" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 1.
