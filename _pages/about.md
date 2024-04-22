@@ -18,3 +18,83 @@ My research interests are primarily in macroeconomics, with a focus on consumpti
 **I am going to be on the 2024-2025 job market.**
 
 Contact: jb7026@nyu.edu 
+
+
+# <center> Job Market Paper  </center>
+- - -
+
+**Placeholder 1**, *info* <br />
+<small>[ <a href="#/" onclick="visib('Placeholder1')">Abstract</a> | [Draft][Draft1] | [Slides][Slides1]] 
+
+<div id="Placerholder1" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract text 1.
+</small><br><br/></div>
+
+[Draft1]:{{ site.baseurl }}{% link assets/files/draft1 %}
+
+[Slides1]: http://arxiv.org
+
+# <center> Working Papers  </center>
+- - -
+
+**Placeholder2** (with co-authors), *info* <br />
+<small>[ <a href="#/" onclick="visib('Placeholder2')">Abstract</a> | [Draft][Draft2] | [Slides][Slides2] ] 
+
+<div id="Placeholder2" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract text 2.
+</small><br><br/></div>
+
+[Draft2]:{{ site.baseurl }}{% link assets/files/draft2 %}
+
+[Slides2]: https://arxiv.org
+
+
+**Placeholder3** (with co-authors), *info* <br />
+<small>[ <a href="#/" onclick="visib('Placeholder3')">Abstract</a> | [Draft][Draft3] | [Slides][Slides3] ] 
+
+<div id="Placeholder3" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract text 3.
+</small><br><br/></div>
+
+[Draft3]:{{ site.baseurl }}{% link assets/files/draft1 %}
+
+[Slides3]: https://arxiv.org/
+
+
+
+# <center> Work In Progress  </center>
+- - -
+
+**Placeholder4**, *info* <br />
+<small>[ <a href="#/" onclick="visib('Placeholder4')">Abstract</a> | [Slides][Slides4] ] 
+
+<div id="Placeholder4" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract text 4.
+</small><br><br/></div>
+
+[Slides4]: https://arxiv.org/
+
+**Placeholder5**, *info* <br />
+<small>[ <a href="#/" onclick="visib('Placeholder5')">Abstract</a> | [Slides][Slides4] ] 
+
+<div id="Placeholder5" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Abstract text 5.
+</small><br><br/></div>
+
+[Slides4]: https://arxiv.org/
+
+
+
+[//]: This java script is the button to show abstract
+ <script>
+  function visib(id) {
+   var x = document.getElementById(id);
+   if (x.style.display === "block") {
+     x.style.display = "none";
+   } else {
+     x.style.display = "block";
+   }
+ }
+ </script>
+
+ [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
