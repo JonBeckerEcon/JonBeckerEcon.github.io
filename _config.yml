@@ -22,7 +22,7 @@ repository               : "jonbeckerecon/jonbeckerecon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jonathan Becker"
+  name             : # "Jonathan Becker"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "New York City"
