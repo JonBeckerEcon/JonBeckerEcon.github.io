@@ -22,13 +22,13 @@ repository               : "jonbeckerecon/jonbeckerecon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jonathan Becker"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "New York City"
+  employer         : "New York University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jb7026@nyu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
