@@ -20,9 +20,9 @@ My research interests are primarily in macroeconomics, with a focus on consumpti
 Here is my [CV](files/).
 
 Contact me via <a href="mailto:jb7026@nyu.edu">jb7026@nyu.edu</a> <br><br/>
+Contact me via <a href="mailto:jb7026@nyu.edu", style="color: #1f4263; text-decoration: underline;">jb7026@nyu.edu</a> <br><br/>
 
-
-# <center> Job Market Paper  </center>
+# <center> Job Market Paper </center>
 - - -
 
 **Placeholder 1** <br />
