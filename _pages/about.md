@@ -17,17 +17,15 @@ Welcome! I am a PhD candidate in Economics at New York University.
 
 My research interests are primarily in macroeconomics, with a focus on consumption and inequality. I have also worked on topics in information theory and spatial economics. 
 
-Here is my [CV](files/).
+Here is my <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: underline;">CV</a>.
 
-Contact me via <a href="mailto:jb7026@nyu.edu">jb7026@nyu.edu</a> <br><br/>
-
-Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: underline;">jb7026@nyu.edu</a> <br><br/>
+Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: none;" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'">jb7026@nyu.edu</a>. <br><br/>
 
 # <center> Job Market Paper </center>
 - - -
 
 **Placeholder 1** <br />
-<small>[ <a href="#/" onclick="visib('Placeholder1')">Abstract</a> | [Slides][Slides1] ] 
+<small>[ <a href="#/" onclick="visib('Placeholder1')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | [Slides][Slides1] ] 
 
 <div id="Placeholder1" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 1.
@@ -39,7 +37,7 @@ Abstract text 1.
 - - -
 
 **Placeholder 2** (with co-authors) <br />
-<small>[ <a href="#/" onclick="visib('Placeholder2')">Abstract</a> | [Slides][Slides2] ] 
+<small>[ <a href="#/" onclick="visib('Placeholder2')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | [Slides][Slides2] ] 
 
 <div id="Placeholder2" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 2.
@@ -48,7 +46,7 @@ Abstract text 2.
 [Slides2]: https://arxiv.org
 
 **Placeholder 3** (with co-authors) <br />
-<small>[ <a href="#/" onclick="visib('Placeholder3')">Abstract</a> | [Slides][Slides3] ] 
+<small>[ <a href="#/" onclick="visib('Placeholder3')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | [Slides][Slides3] ] 
 
 <div id="Placeholder3" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 3.
@@ -60,7 +58,7 @@ Abstract text 3.
 - - -
 
 **Placeholder 4** <br />
-<small>[ <a href="#/" onclick="visib('Placeholder4')">Abstract</a> | [Slides][Slides4] ] 
+<small>[ <a href="#/" onclick="visib('Placeholder4')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | [Slides][Slides4] ] 
 
 <div id="Placeholder4" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 4.
@@ -69,7 +67,7 @@ Abstract text 4.
 [Slides4]: https://arxiv.org/
 
 **Placeholder 5** <br />
-<small>[ <a href="#/" onclick="visib('Placeholder5')">Abstract</a> | [Slides][Slides4] ] 
+<small>[ <a href="#/" onclick="visib('Placeholder5')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | [Slides][Slides4] ] 
 
 <div id="Placeholder5" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 5.
