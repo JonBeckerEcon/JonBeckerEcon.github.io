@@ -19,13 +19,13 @@ My research interests are primarily in macroeconomics, with a focus on consumpti
 
 Here is my <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: underline;">CV</a>.
 
-Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: none;" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'">jb7026@nyu.edu</a>. <br><br/>
+Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">jb7026@nyu.edu</a>. <br><br/>
 
 # <center> Job Market Paper </center>
 - - -
 
 **Placeholder 1** <br />
-<small>[ <a href="#/" onclick="visib('Placeholder1')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | [Slides][Slides1] ] 
+<small>[ <a href="#/" onclick="visib('Placeholder1')" style="color: #1f4263; text-decoration: underline;">Abstract</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: underline;">Slides</a> ] 
 
 <div id="Placeholder1" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Abstract text 1.
