@@ -25,6 +25,7 @@ Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decor
 - - -
 
 **Asymmetric Markup-Dynamics in Recessions** <br />
+(Job Market Paper)<br />
 <small>[ <a href="#/" onclick="visib('AMDR')" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Abstract</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Slides</a> ] 
 
 <div id="AMDR" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -34,7 +35,8 @@ Micro-data reveals significant polarization in consumption patterns along the qu
 # <center> Working Papers  </center>
 - - -
 
-**Local Concentration, National Concentration, and the Spatial Distribution of Markups** (with Chris Edmond, Virgiliu Midrigan, and Daniel Yi Xu) <br />
+**Local Concentration, National Concentration, and the Spatial Distribution of Markups** <br />
+(with Chris Edmond, Virgiliu Midrigan, and Daniel Yi Xu) <br />
 <small>[ <a href="#/" onclick="visib('LCNCSDM')" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Abstract</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Slides</a> ] 
 
 <div id="LCNCSDM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -42,6 +44,7 @@ We study the spatial distribution of production and consumption in a quantitativ
 </small><br><br/></div>
 
 **Entry under Information-Frictions** <br />
+(Best Third-Year Paper Award)<br />
 <small>[ <a href="#/" onclick="visib('EIF')" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Abstract</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Slides</a> ] 
 
 <div id="EIF" style="display: none; text-align: justify; line-height: 1.2" ><small>
