@@ -17,7 +17,7 @@ Welcome! I am a PhD candidate in Economics at New York University.
 
 My research interests are primarily in macroeconomics, with a focus on consumption and inequality. I have also worked on topics in information theory and spatial economics. 
 
-Here is my <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">CV</a>.
+Here is my <a href="https://jonbeckerecon.github.io/files/CV_Jonathan_Becker.pdf" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">CV</a>.
 
 Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">jb7026@nyu.edu</a>. <br><br/>
 <br />
