@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-**This website is under construction**
+**This website is under currently construction**
 
 Welcome! I am a PhD candidate in Economics at New York University.  
 
