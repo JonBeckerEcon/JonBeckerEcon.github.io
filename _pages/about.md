@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
+<br/>
 Welcome! I am a PhD candidate in Economics at New York University.  
 
 **I am going to be on the 2024-2025 job market.**
