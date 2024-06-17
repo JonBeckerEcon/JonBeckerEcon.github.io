@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br />
 
 Welcome! I am a PhD candidate in Economics at New York University.  
 
