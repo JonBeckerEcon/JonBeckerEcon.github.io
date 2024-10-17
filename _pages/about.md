@@ -14,7 +14,7 @@ Welcome! I am a PhD candidate in Economics at New York University.
 
 My research interests are primarily in macroeconomics, with a focus on consumption and inequality. I have also worked on topics in information theory and spatial economics. 
 
-Here is my <a href="https://jonbeckerecon.github.io/files/CV_Jonathan_Becker.pdf" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">CV</a>.
+Here is my <a href="https://jonbeckerecon.github.io/files/cv_becker_j.pdf" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">CV</a>.
 
 Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">jb7026@nyu.edu</a>. <br><br/>
 <br />
@@ -22,10 +22,10 @@ Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decor
 # <center> Job Market Paper </center>
 - - -
 
-**Unequal Markup Responses in Recessions** <br />
+**Do Poor Households Pay Higher Markups in Recessions?** <br />
 [ <a href="https://jonbeckerecon.github.io/files/unequal_markups_becker.pdf" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Draft</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Slides coming soon</a> ]
 
-<small>Poor and rich households differ greatly in the mix of products they consume, with the poor allocating a larger share of their expenditures to relatively inexpensive goods. Moreover, during recessions households shift spending towards more affordable goods. This paper studies an economy with nonhomothetic preferences and endogenously variable markups that can reproduce these patterns. I show that in recessions, lower-quality producers gain market power and increase markups because consumers shift spending towards more affordable goods. In contrast, higher-quality producers reduce their markups. Observed changes in the expenditure distribution during the Great Recession led to a 6.8 percentage point increase in the markups of low-quality goods and a 1.8 percentage point decline in the markups of high-quality products, thus considerably increasing real consumption inequality. Embedding this unequal markup adjustment mechanism into a Bewley-Aiyagari midek, I find that redistributive policy interventions amplify this unequal markup response. Redistribution to the poor allows lower-quality producers to gain even more market share and ito increase markups even further.</small><br>
+<small>Poor and rich households differ greatly in the mix of products they consume, with the poor allocating a larger share of their spending to relatively inexpensive goods. Moreover, during recessions, households shift spending toward more affordable goods. In this paper, I study an economy with nonhomothetic preferences and endogenously variable markups that is calibrated to match these patterns. I show that in recessions, producers of low-quality goods gain market power and increase markups because consumers shift spending toward more affordable goods. By contrast, producers of higher-quality goods reduce their markups. Observed changes in the expenditure distribution during the Great Recession led to a 6.8-percentage-point increase in the markups of low-quality goods and a 1.8-percentage-point decline in the markups of high-quality products, considerably increasing real consumption inequality. Embedding this mechanism into a Bewley-Aiyagari-Hugget model, I find redistributive policy interventions, aimed at alleviating inequality, amplify these unequal markup movements. Redistribution to the poor allows lower-quality producers to gain even more market share and to increase markups even further.</small><br>
 
 # <center> Working Papers  </center>
 - - -
