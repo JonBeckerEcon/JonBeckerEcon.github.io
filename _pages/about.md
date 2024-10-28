@@ -22,6 +22,7 @@ Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decor
 # <center> Job Market Paper </center>
 - - -
 
+<a href="https://jonbeckerecon.github.io/files/unequal_markups_becker.pdf" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">**Do Poor Households Pay Higher Markups in Recessions?**</a>
 **Do Poor Households Pay Higher Markups in Recessions?** <br />
 [ <a href="https://jonbeckerecon.github.io/files/unequal_markups_becker.pdf" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Draft</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Slides coming soon</a> ]
 
