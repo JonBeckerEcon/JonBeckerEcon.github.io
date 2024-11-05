@@ -10,7 +10,7 @@ redirect_from:
 <br/>
 Welcome! I am a PhD candidate in Economics at New York University.  
 
-**I am going to be on the 2024-2025 job market.**
+**I am currently on the 2024-2025 job market.**
 
 My research interests are primarily in macroeconomics, with a focus on consumption and inequality. I have also worked on topics in information theory and spatial economics. 
 
