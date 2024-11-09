@@ -43,6 +43,12 @@ Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decor
 # <center> Work In Progress  </center>
 - - -
 
+
+**Does a Shrinking Middle Class Lead to Higher Markups?** <br />
+
+<small>This paper links the well-documented rise in expenditure inequality over the past decades with the concurrent rise in markups and decline of the labor share. I make this argument using a structural model of firm dynamics with nonhomothetic consumer preferences and oligopolistic product market competition. I calibrate this model to micro data from the Nielsen Consumer Panel and I find that market power is most consequentially disciplined by comparatively price-elastic middle class consumers. A secular rise in inequality leads to a shift of consumers into both tails of the expenditure distribution and therefore a shrinking middle class. As a result, firms become less concerned about losing business from comparatively price-sensitive middle-class consumers and focus on extracting rents from their more price-insensitive customer segments. Markups rise. This secular reduction of product market competition is quantitatively consequential even when accounting for changes in the barriers to entry over time.</small><br>
+
+
 **Quality-Uncertainty, Habit-Formation, and the Creation of New Varieties** <br />
 [ <a href="#/" onclick="visib('Placeholder4')" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Abstract</a> | <a href="https://jonbeckerecon.github.io/files" style="color: #1f4263; text-decoration: none;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">Slides</a> ] 
 
