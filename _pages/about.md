@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 <br/>
-Welcome! I am a PhD candidate in Economics at New York University.  
-
-**I am currently on the 2024-2025 job market.**
-
-My research interests are primarily in macroeconomics, with a focus on inequality and firm dynamics. I have also worked on topics in information theory and spatial economics. 
+Welcome! I am an Assistant Professor of Economics at Stony Brook University.
+My research interests are primarily in macroeconomics, with a focus on inequality and firm dynamics. I also work on topics in financial economics, information theory, and spatial economics. I hold a PhD in Economics from New York University.
 
 Here is my <a href="https://jonbeckerecon.github.io/files/cv_becker_j.pdf" style="color: #1f4263; text-decoration: underline;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">CV</a>.
 
