@@ -13,7 +13,7 @@ My research interests are primarily in macroeconomics, with a focus on inequalit
 
 Here is my <a href="https://jonbeckerecon.github.io/files/cv_becker_j.pdf" style="color: #1f4263; text-decoration: underline;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">CV</a>.
 
-Contact me via <a href="mailto:jb7026@nyu.edu" style="color: #1f4263; text-decoration: underline;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">jb7026@nyu.edu</a>. <br><br/>
+Contact me via <a href="mailto:jonathan.becker@stonybrook.edu<" style="color: #1f4263; text-decoration: underline;" onmouseover="style='color: #1f4263; text-decoration:underline;'" onmouseout="style='color: #1f4263; text-decoration:none;'">jonathan.becker@stonybrook.edu</a>. <br><br/>
 <br />
 
 # <center> Job Market Paper </center>
